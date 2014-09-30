@@ -2,12 +2,12 @@
 title: LifeHisto
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Seus exames em um só lugar. Lifehisto organiza seus exames, permitindo usá-los quando mais se precisa. 
+  Seus exames médicos em um só lugar. Lifehisto organiza seus exames, permitindo usá-los quando mais se precisa. 
   Acesse via computador ou smartphone.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lifehisto.com" # the base hostname & protocol for your site
 twitter_username: https://twitter.com/Lifehisto
-keywords: "site, default, exames, lifehisto, portal"
+keywords: "site, default, exame, lifehisto, historico, medico, saude, smartphone"
 github_username:  jekyll
 
 # Build settings
